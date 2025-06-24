@@ -3,6 +3,10 @@
 🎓 B.Com Final Year Student | 📊 Aspiring Data Analyst | 💡 Data Enthusiast
 📍 Ahmedabad, India
 
+![Profile Views](https://komarev.com/ghpvc/?username=adityamehta2k4&label=Profile%20Views&color=0e75b6&style=flat)
+[![Follow](https://img.shields.io/github/followers/adityamehta2k4?label=Follow&style=social)](https://github.com/adityamehta2k4)
+
+ 
 ---
 
 ## 🔥 About Me
