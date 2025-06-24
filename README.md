@@ -18,9 +18,6 @@ I’m a passionate data learner focused on transforming raw data into meaningful
 * 🤝 Open to: Internships, Collaborations, and Projects in analytics or BI
 
 ---
-
-## 🧠 Tech Stack
-
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Programming & Scripting
