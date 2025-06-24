@@ -21,17 +21,28 @@ I’m a passionate data learner focused on transforming raw data into meaningful
 
 ## 🧠 Tech Stack
 
-**Languages & Querying:**
-`Python` `SQL`
+## 💻 Tech Stack
 
-**Libraries & Tools:**
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+### 🧑‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
 
-**BI Tools:**
-`Power BI` `Excel`
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF?logo=seaborn&logoColor=white)
 
-**Databases:**
-`MySQL` (learning)
+### 📈 Business Intelligence Tools
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+### 🧰 Productivity Tools
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-00B386?logo=microsoft&logoColor=white)
 
 ---
 
