@@ -35,7 +35,6 @@ I’m a passionate data learner focused on transforming raw data into meaningful
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ### 🧰 Productivity Tools
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
