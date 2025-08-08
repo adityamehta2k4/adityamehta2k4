@@ -13,16 +13,15 @@
 
 I’m a passionate data learner focused on transforming raw data into meaningful insights. Currently upskilling in **Data Analytics** using tools like **Excel, Power BI, SQL, and Python**, with a keen interest in creating visual dashboards and business intelligence solutions.
 
-* 🌱 Currently Learning: Python (Pandas, NumPy), Excel Formulas & Charts, Power BI, SQL
+* 🌱 Currently Learning: Python (Pandas, NumPy), Excel Formulas & Charts, Power BI.
 * 🎯 Goal: To land a role in data analytics and solve real-world problems using data
 * 🤝 Open to: Internships, Collaborations, and Projects in analytics or BI
 
 ---
 ## 💻 Tech Stack
 
-### 🧑‍💻 Programming & Scripting
+### 🧑‍💻 Programming 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
@@ -33,8 +32,6 @@ I’m a passionate data learner focused on transforming raw data into meaningful
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
 
 ### 🧰 Productivity Tools
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
