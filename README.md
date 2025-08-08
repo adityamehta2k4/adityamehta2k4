@@ -11,7 +11,7 @@
 
 ## 🔥 About Me
 
-I’m a passionate data learner focused on transforming raw data into meaningful insights. Currently upskilling in **Data Analytics** using tools like **Excel, Power BI, SQL, and Python**, with a keen interest in creating visual dashboards and business intelligence solutions.
+I’m a passionate data learner focused on transforming raw data into meaningful insights. Currently upskilling in **Data Analytics** using tools like **Excel, Power BI, and Python**, with a keen interest in creating visual dashboards and business intelligence solutions.
 
 * 🌱 Currently Learning: Python (Pandas, NumPy), Excel Formulas & Charts, Power BI.
 * 🎯 Goal: To land a role in data analytics and solve real-world problems using data
